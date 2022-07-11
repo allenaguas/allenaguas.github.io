@@ -2624,7 +2624,7 @@ input, select, textarea {
 		}
 
 		#header strong, #header b {
-			color: #000000;
+			color: #444444;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -2650,11 +2650,11 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.4);
+			color: #444444;
 		}
 
 	#footer .copyright {
-		color: rgba(255, 255, 255, 0.4);
+		color: #444444;
 		font-size: 0.8em;
 		list-style: none;
 		margin: 1em 0 0 0;
@@ -2662,7 +2662,7 @@ input, select, textarea {
 	}
 
 		#footer .copyright li {
-			border-left: solid 1px rgba(255, 255, 255, 0.25);
+			border-left: solid 1px #444444;
 			display: inline-block;
 			line-height: 1em;
 			margin-left: 0.75em;
