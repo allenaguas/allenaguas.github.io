@@ -1952,7 +1952,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #49bf9d;
+			border-color: #597d72;
 		}
 
 	input[type="checkbox"] + label:before {
