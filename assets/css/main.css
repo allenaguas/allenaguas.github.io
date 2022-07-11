@@ -1807,7 +1807,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #787878;
+		color: #ffffff;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 400;
@@ -1847,7 +1847,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #49bf9d;
+			border-color: #3e6c5f;
 		}
 
 	select {
