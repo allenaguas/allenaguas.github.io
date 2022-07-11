@@ -25,12 +25,7 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
-	<style type="text/css">
- ul {
-  list-style-type: none;
- }
-</style>
-
+	
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
